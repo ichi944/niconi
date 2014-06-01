@@ -10,7 +10,7 @@ install
 
 #### on mac
 
-copy niconi directory under `~/Library/Application Support/Sublime Text 3/Packages`
+copy Niconi directory under `~/Library/Application Support/Sublime Text 3/Packages`
 
 #### short cut key
 
