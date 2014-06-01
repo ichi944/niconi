@@ -10,15 +10,19 @@ install
 
 #### on mac
 
-copy Niconi directory under `~/Library/Application Support/Sublime Text 3/Packages`
+clone or download
+
+and copy Niconi directory under `~/Library/Application Support/Sublime Text 3/Packages`
 
 #### short cut key
 
-edit this file
-
 example: set "alt + command + v"
 
+edit this file if file not exists, create this
+
 `~/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap`
+
+add setteing
 
     [
       {"keys": ["alt+super+v"], "command": "niconi"}
